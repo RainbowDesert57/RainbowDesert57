@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Nothing right now
 - 📫 How to reach me: email- Tanishj1711@gmail.com
 - 😄 Pronouns: attack helicopter/walmart bag
-- ⚡ Fun fact: Your brain makes your nose invisible, and I'm 13 yr old
+- ⚡ Fun fact: newton discovered that if you don't move something, it doesn't move...
 
 <!---
 RainbowDesert57/RainbowDesert57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
