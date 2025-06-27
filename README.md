@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Nothing right now
 - 📫 How to reach me: email- tanishj1711@gmail.com
 - 😄 Pronouns: attack helicopter/walmart bag
-- 🧑‍💻 Portfolio: rainbowdesert57.github.io (Still under developement)
+- 🧑‍💻 Portfolio: https://rainbowdesert57.github.io (Still under developement)
 - ⚡ Fun fact: newton discovered that if you don't move something, it doesn't move...
 
 <!---
