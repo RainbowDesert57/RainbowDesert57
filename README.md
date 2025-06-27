@@ -8,14 +8,21 @@
 - ⚡ Fun fact: newton discovered that if you don't move something, it doesn't move...
 
 # 💫 About Me:
-    👋 Hi, I’m @RainbowDesert57<br>    👀 I’m interested in: C++ programming<br>    🌱 I’m currently learning: C++ programming<br>    💞️ I’m looking to collaborate on Nothing right now<br>    📫 How to reach me: email- tanishj1711@gmail.com<br>    😄 Pronouns: attack helicopter/walmart bag<br>    🧑‍💻 Portfolio: https://rainbowdesert57.github.io (Still under developement)<br>    ⚡ Fun fact: newton discovered that if you don't move something, it doesn't move...
+    👋 Hi, I’m @RainbowDesert57    
+    👀 I’m interested in: C++ programming<br>    
+    🌱 I’m currently learning: C++ programming<br>    
+    💞️ I’m looking to collaborate on Nothing right now<br>    
+    📫 How to reach me: email- tanishj1711@gmail.com<br>    
+    😄 Pronouns: attack helicopter/walmart bag<br>    
+    🧑‍💻 Portfolio: https://rainbowdesert57.github.io (Still under developement)<br>    
+    ⚡ Fun fact: newton discovered that if you don't move something, it doesn't move...
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yet to make a server) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishj1711@gmail.com) 
 
 # Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+## C++ JS CSS HTML GIT GITHUB
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rainbowdesert57&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple&hide_border=false)<br/>
