@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @RainbowDesert57
-- 👀 I’m interested in: C++ programming
-- 🌱 I’m currently learning: C++ programming
-- 💞️ I’m looking to collaborate on Nothing right now
-- 📫 How to reach me: email- tanishj1711@gmail.com
-- 😄 Pronouns: attack helicopter/walmart bag
-- 🧑‍💻 Portfolio: https://rainbowdesert57.github.io (Still under developement)
-- ⚡ Fun fact: newton discovered that if you don't move something, it doesn't move...
+- # 👋 Hi, I’m Tanish Jangra, a 14 year old programmer from India
+- I’m interested in: C++ programming
+- I’m currently learning: C++ programming, JavaScript + JSON
+- I’m looking to collaborate on Nothing right now
+- How to reach me: email- tanishj1711@gmail.com
+- Pronouns: attack helicopter/walmart bag
+- Portfolio: https://rainbowdesert57.github.io (Still under developement)
+- Fun fact: newton discovered that if you don't move something, it doesn't move...
+- Another Fun fact: I use Arch, BTW
 
 
 ![](https://github-readme-stats.vercel.app/api?username=rainbowdesert57&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -23,7 +24,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!---
-RainbowDesert57/RainbowDesert57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
