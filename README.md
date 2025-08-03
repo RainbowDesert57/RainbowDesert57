@@ -3,7 +3,7 @@
 - I’m currently learning: C++ programming, JavaScript + JSON
 - I’m looking to collaborate on Nothing right now
 - How to reach me: email- tanishj1711@gmail.com
-- Pronouns: attack helicopter/walmart bag
+- Pronouns: He/Him
 - Portfolio: https://rainbowdesert57.github.io (Still under developement)
 - Fun fact: newton discovered that if you don't move something, it doesn't move...
 - Another Fun fact: I use Arch, BTW
