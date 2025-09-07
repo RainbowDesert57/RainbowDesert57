@@ -1,7 +1,6 @@
 - # 👋 Hi, I’m Tanish Jangra, a 14 year old programmer from India
 - I’m interested in: C++ programming
-- I’m currently learning: C++ programming, JavaScript + JSON
-- I’m looking to collaborate on Nothing right now
+- I’m currently learning: C++ programming, OpenGL, soon shifting to Vulkan, Swift an SwiftUI, JS full stack
 - How to reach me: email- tanishj1711@gmail.com
 - Pronouns: He/Him
 - Portfolio: https://rainbowdesert57.github.io (Still under developement)
