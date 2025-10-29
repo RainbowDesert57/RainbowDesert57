@@ -13,8 +13,8 @@
 - Fun fact: newton discovered that if you don't move something, it doesn't move...
 - Another Fun fact: I use Arch, BTW
 
-
-![](https://github-readme-stats.vercel.app/api?username=rainbowdesert57&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# My stats
+![](https://github-readme-stats.vercel.app/api?username=rainbowdesert57&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowdesert57&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
