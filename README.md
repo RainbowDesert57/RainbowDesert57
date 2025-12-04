@@ -4,7 +4,7 @@
 
 </div>
 
-# I’m Tanish Jangra, a 14 year old programmer from India
+# 👋 I’m Tanish Jangra, a 14 year old programmer from India
 - I’m interested in: C++ programming, Full stack web dev
 - I’m currently learning: C++ programming, OpenGL, soon shifting to Vulkan, Swift an SwiftUI, full stack
 - How to reach me: email- tanishj1711@gmail.com
@@ -24,6 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rainbowdesert57&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
