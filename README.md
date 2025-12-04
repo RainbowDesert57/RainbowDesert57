@@ -1,6 +1,6 @@
 <div align=center>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&pause=50&color=fff&vCenter=true&width=537&height=70&lines=Hello!;Greetings!;Welcome!;Hi!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&pause=50&color=fff&vCenter=false&width=537&height=70&lines=Hello!;Greetings!;Welcome!;Hi!)
 </div>
 
 # 👋 I’m Tanish Jangra, a 14 year old programmer from India
