@@ -14,9 +14,6 @@
 - Another Fun fact: I use Arch, BTW
 
 # My stats
-
-![](https://github-readme-stats.vercel.app/api?username=rainbowdesert57&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
----
 ![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple&hide_border=false)
 ---
 ![](https://github-contributor-stats.vercel.app/api?username=rainbowdesert57&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
