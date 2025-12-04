@@ -16,6 +16,6 @@
 # My stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rainbowdesert57&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
- ![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple&hide_border=false)
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
