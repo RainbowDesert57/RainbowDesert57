@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&pause=50&color=fff&vCenter=false&width=537&height=70&lines=Hello!;Greetings!;Welcome!;Hi!)
 </div>
 
-# 👋 I’m Tanish Jangra, a 14 year old programmer from India
+# 👋 I’m Tanish Jangra, a 15 year old programmer from India
 - I’m interested in: C++ programming, Full stack web dev
 - I’m currently learning: C++ programming, OpenGL, soon shifting to Vulkan, Swift an SwiftUI, full stack
 - How to reach me: email- tanishj1711@gmail.com
