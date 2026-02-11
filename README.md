@@ -12,7 +12,7 @@
 - **Portfolio:** https://rainbowdesert57.github.io *(WIP)*
 - **Contact:** tanishj1711@gmail.com
 
-## 📊 Stats
+## Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple)
 
 ---
