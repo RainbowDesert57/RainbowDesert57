@@ -13,6 +13,6 @@
 
 # My stats
 ![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple&hide_border=false)
-<--!![](https://github-contributor-stats.vercel.app/api?username=rainbowdesert57&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)-->
+%%<--!![](https://github-contributor-stats.vercel.app/api?username=rainbowdesert57&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)-->%%
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
