@@ -9,11 +9,10 @@
 - How to reach me: email- tanishj1711@gmail.com
 - Pronouns: He/Him
 - Portfolio: https://rainbowdesert57.github.io (Still under developement)
-- Fun fact: newton discovered that if you don't move something, it doesn't move...
-- Another Fun fact: I use Arch, BTW
+- Fun fact: I use Arch, BTW
 
 # My stats
 ![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=rainbowdesert57&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+<--!![](https://github-contributor-stats.vercel.app/api?username=rainbowdesert57&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)-->
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
