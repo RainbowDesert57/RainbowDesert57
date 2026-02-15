@@ -1,19 +1,17 @@
-<div align=center>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&pause=50&color=fff&width=537&height=70&lines=Hello!;Greetings!;Welcome!;Hi!)
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!)
+<img src=".github/assets/banner.jpg" />
 
 ## 👋 Hi, I’m Tanish  
-**Student & programmer from India (15)**
+**Student & programmer (15)**
 
 - **Interests:** C++, mobile dev, full-stack web
 - **Learning:** Swift & SwiftUI, Kotlin, modern graphics APIs
 - **Setup:** Arch Linux user (BTW)
 - **Portfolio:** https://rainbowdesert57.github.io *(WIP)*
-- **Contact:** tanishj1711@gmail.com
-
-## Stats
-![](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple)
+- **Contact:** [Email](tanishj1711@gmail.com) [Discord](https://discord.com/users/795929788250193920)
 
 ---
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Stats
+![Stats](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple)
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
