@@ -1,5 +1,6 @@
+<img src=".github/assets/pfp2.jpg" />
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!)
-<img src=".github/assets/banner.jpg" />
 
 ## 👋 Hi, I’m Tanish  
 **Student & programmer (15)**
